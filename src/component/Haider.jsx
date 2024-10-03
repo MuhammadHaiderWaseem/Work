@@ -2,7 +2,7 @@ import React from 'react'
 
 const Haider = () => {
   return (
-    <div>Haider</div>
+    <div></div>
   )
 }
 
