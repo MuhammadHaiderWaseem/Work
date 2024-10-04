@@ -2,6 +2,7 @@ import React from 'react'
 import "./Haider.css"
 const Haider = () => {
   return (
+<<<<<<< HEAD
     <div>
       <div className="container">
         <nav className="nav">
@@ -17,6 +18,9 @@ const Haider = () => {
         </nav>
       </div>
     </div>
+=======
+    <div></div>
+>>>>>>> 2b87a5fa374e8e478d09620988208277326502ad
   )
 }
 
